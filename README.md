@@ -17,7 +17,9 @@ O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma c
 
 - Descrição de caso de uso: A implantação do serviço Amazon EC2 permitirá hospedar o site de vendas; executar aplicações como APIs utilizadas para interface com clientes e fornecedores; gerenciar o ciclo operacional das rotinas do sistema ERP, assegurando a integridade e segurança dos dados transacionados, bem como garantir a conformidade com os processos operacionais internos relacionados ao ERP; processar dados (Big Data) para análises internas e tomadas de decisão da organização;
 O modelo de instancias EC2 sugeridas para implantação são a de otimizada para memória (Memory Optimized), que apresenta alto desempenho para processamentos de dados na memória (RAM) em conjunto com a otimizada para uso geral (General Purpose) para atender as rotinas gerais da organização e para hospedar o site de vendas;
-
+Modelo de escala sugerido para o AWS Auto Scaling é um hibrido de Preditiva (Predictive), considerando que a empresa já tem uma previsão de demanda de utilização em conjunto com a agendada (Scheduled), para atender picos de demandas sazonais.
+O AWS Elastic Load Balancing (ELB) será implantado para distribuir as entradas de acesso...
+Sub-Rede...
 ### Etapa 2:
 
 - Solução/Ferramenta: Amazon RDS - Relational Database Service
