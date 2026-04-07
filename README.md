@@ -11,17 +11,18 @@ O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma c
 
 ### Etapa 1:
 
-- Solução/Ferramenta: 
+- Solução/Ferramenta: Amazon EC2 - Elastic Compute Cloud + AWS Auto Scaling + AWS Elastic Load Balancing (ELB) 
 
-- Foco:
+- Foco: hospedar sites e aplicações, executar rotinas sistemicas do ERP e outras aplicações da organização, processamento de dados (Big Data) e rotinas de usos gerais de sistemas;
 
-- Descrição de caso de uso: 
+- Descrição de caso de uso: A implantação do serviço Amazon EC2 permitirá hospedar o site de vendas; executar aplicações como APIs utilizadas para interface com clientes e fornecedores; gerenciar o ciclo operacional das rotinas do sistema ERP, assegurando a integridade e segurança dos dados transacionados, bem como garantir a conformidade com os processos operacionais internos relacionados ao ERP; processar dados (Big Data) para análises internas e tomadas de decisão da organização;
+O modelo de instancias EC2 sugeridas para implantação são a de otimizada para memória (Memory Optimized), que apresenta alto desempenho para processamentos de dados na memória (RAM) em conjunto com a otimizada para uso geral (General Purpose) para atender as rotinas gerais da organização e para hospedar o site de vendas;
 
 ### Etapa 2:
 
-- Solução/Ferramenta: 
+- Solução/Ferramenta: Amazon RDS - Relational Database Service
 
-- Foco:
+- Foco: armazenamento e gerenciamento de de bancos de dados relacionais como do ERP e outras aplicações da organização que necessecitem de armazemaneto de dados estruturados;
 
 - Descrição de caso de uso: 
 
