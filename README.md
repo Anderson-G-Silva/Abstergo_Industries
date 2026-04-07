@@ -38,7 +38,7 @@ O modelo de serviço proposto é PaaS - Plataform as a Service (Plataforma como 
 
   O banco de dados será implantado dentro da sub-rede (subnet) privada da organização.
 
-  Ganho financeiro estimado a partir de 20% - anexo 2.
+  Ganho financeiro estimado a partir de 30% - anexo 2.
 
 ### Etapa 3:
 - Solução/Ferramenta: Amazon S3 – Simple Storage Service.
@@ -49,7 +49,7 @@ O modelo de serviço proposto é PaaS - Plataform as a Service (Plataforma como 
 
   O banco de dados será implantado dentro da sub-rede (subnet) privada da organização.
 
-  Ganho financeiro estimado a partir de 20% - anexo 3.
+  Ganho financeiro estimado a partir de 30% - anexo 3.
 
 ## Aspectos gerais das etapas 1 a 3
 
@@ -59,7 +59,7 @@ O modelo de serviço proposto é PaaS - Plataform as a Service (Plataforma como 
 
 
 ## Conclusão
-A implementação das ferramentas descritas nas etapas 1 a 3  na empresa Abstergo Industries tem como esperado ganhos financeiros a partir de 20%, além dos benefícios intangíveis descritos acima, o que aumentará a eficiência e a produtividade da empresa. 
+A implementação das ferramentas descritas nas etapas 1 a 3  na empresa Abstergo Industries tem como esperado ganhos financeiros a partir de 30%, além dos benefícios intangíveis descritos acima, o que aumentará a eficiência e a produtividade da empresa. 
 Recomenda-se a implantação das ferramentas indicadas e a busca contínua por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
